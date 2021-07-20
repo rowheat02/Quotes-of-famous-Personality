@@ -11,7 +11,7 @@
     "expo-ads-admob": "^5.0.1",
     "native-base": "^2.12.1",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-admob": "^2.0.0-beta.5",
     "react-native-collapsible": "^1.4.0",
     "react-native-easy-toast": "^1.2.0",
